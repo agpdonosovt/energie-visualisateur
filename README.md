@@ -1,2 +1,2 @@
-# biggus-dickus
+# ENERGY VISUALIZATION TOOL
 ADLIB
